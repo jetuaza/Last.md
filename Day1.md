@@ -45,3 +45,18 @@ Title 50
 4. Dominate
 5. Stabilize
 6. Civil Stability
+
+## Information Environment (IE) Defined
+The IE is the culmination of social, cultural, psychological, technical, and physical factors that affect how humans and automated systems take meaning from, act on, and are impacted by information. The __Electromagnetic Spectrum (EMS/ES)__ is a maneuver space essential for facilitating control within the __Operational Environment (OE)__. There are 3 aspects to the Information Environment. 
+1. __Physical__: The natural and manufactured material characteristics of the environment that may inhibit/enhance communications.
+2. __Informational__: The way that communications and information is exchanged between individuals, information systems, and groups.
+3. __Human__: The interactions among people, and between people and the environment that shape human behavior and decision making.
+
+#### Information
+* __Information Advantage__
+* __Informational Power__
+###### Kahoot Pins
+05764653
+04670459
+01980704
+2nd set of pins
