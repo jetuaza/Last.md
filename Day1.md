@@ -1,5 +1,6 @@
 # Day 1
 ## Goldwater-Nichols Act of 1986
+## National Security Act of 1947
 ## Command and Control
 ## Forces
 The __Global Force Management (GFM)__ is the process that allows the SecDef to strategically mnage the employment of the force among the CCDs, accomplished through three related processes: __assignment__, __allocation__, and __apportionment__.
@@ -19,13 +20,13 @@ The priorities of the GCCs are to ensure an effective posture, strengthen allies
 10. TRANSCOM - Provides transportation for the DoD in times of peace and war.
 11. CYBERCOM - Deals with Cyberspace.
 ## Unified Commands
-Join forces can be combined between Geographic Commands, and work closely to whichever command(s) they work within.
+Joint forces can be combined between Geographic Commands, and work closely to whichever command(s) they work within.
 * __Functional Combatant Commands (FCCs)__ operate across all geographical regions and typically provide support to other Combatant Commanders (CCDRs).
 
 ## Power of the IA
-Title 10 - Gives responsibilities of the Armed Forces to the Secretary of Defense
-Title 22 - 
-Title 50
+* Title 10 - Gives responsibilities of the Armed Forces to the Secretary of Defense
+* Title 22 - 
+* Title 50
 ### Joint Operations
 #### Principles of Joint Operations
 * Objective
@@ -39,7 +40,7 @@ Title 50
 * Simplicity
 
 #### Joint Operations Model
-1. Shapre
+1. Shape
 2. Deter
 3. Seize Initiative
 4. Dominate
