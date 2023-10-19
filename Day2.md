@@ -17,4 +17,37 @@ EW includes 3 major subdivisions: Electromagnetic Attack (EA), Electromagnetic P
    * __Direction Finding:__ Leveraging various organic and supporting ES platforms
 
 # Space Operations
-__Space Operations__ are operations directly utilizing or impacting space and ground-based capabilities to enhance the potential of the US and its partners.
+__Space Operations (SO)__ are operations directly utilizing or impacting space and ground-based capabilities to enhance the potential of the US and its partners.
+* __Space Situational Awareness (SSA):__ is the foundational, current, and predictive knowledge and characterization of space objects of all aspects of the OE.
+* __Space Control__
+
+   * Space control can be split into __Offensive__ and __Defensive__ Space Control, similar to Cyberspace operations.
+* __Positioning, Navigation, and Timing (PNT)__
+* __Intelligence, Surveillance, Reconnaissance (ISR)__
+* __Satellite Communications__
+
+### Space Domain Elements
+1. __Ground Segment:__ Consists of ground-based facilities and equipment. Vulnerable to conventional warfighting techniques, since it is a physical thing that can be attacked.
+2. __Link Segment:__ Consists of signal coverage. Vulnerable to things such as jamming, spoofing, replay, command intrusion, etc.
+3. __Space Segment:__ Involves the operational spacecraft within the space domain. Vulnerable to things such as anti-satellite devices, payload control, command intrusion, and (D)DOS.
+4. __User Segment:__ The user/personal aspect. Vulnerable to things such as spoofing, (D)DOS, malaware, etc.
+
+#### Dimensions of the Space Domain
+The dimensions can be split up 3 different ways: __Physical__, __Network__, and __Cognitive__.
+1. __Physical:__ The physical environment that is being used.
+2. __Network:__ Allows for communication, and how the space capabilities are used.
+3. __Cognitive:__ How people actually perceive the capabilities that are available.
+
+#### Threats in Space
+1. Nation State Threat
+2. Individual/Small Group Threat
+3. Non-State Threat
+4. Man Made/Natural Hazards
+
+#### Space Mission Assurance - The ability to defend our space capabilities.
+1. Defensive Operations
+2. Reconstitution
+3. Resilience
+4. Deterrence
+
+## 
