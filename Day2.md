@@ -50,4 +50,7 @@ The dimensions can be split up 3 different ways: __Physical__, __Network__, and 
 3. Resilience
 4. Deterrence
 
-## 
+# Cyberspace Operations (CO)
+CCDRs use CO to create effects in support of military objectives.
+
+COs use links and nodes located in the physical domain and perform logical functions to create effects first in cyberspace, then in the physical domain as needed.
