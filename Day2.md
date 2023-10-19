@@ -81,4 +81,3 @@ ROEs set the limits of what certain people are/aren't allowed to do.
    * __Specific ROEs:__ Rules that are followed given specific circumstances.
 
  # Cyber Mision Force (CMF)
- 
