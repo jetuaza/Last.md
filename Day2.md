@@ -61,3 +61,19 @@ The goal of __Defensive Cyberspace Operations__ is to defeat the threat of a spe
 __Deny:__ To degrade, disrupt, or destroy access to information/space.
 
 __Cyberspace Exploitation:__ Activities to gain intel and support operational prep of the environment for current and future operations via actions like gaining/maintaining access to networks, systems, etc., of the adversary.
+# Laws of Armed Conflict (LOAC)
+The DoD Law of War Program, in conjuction with the Law of War Manual, essentially states how people must respond to accusations of violations of war crimes.
+
+Legally defined, LOACs must have justifications in their actions, and control over how severe the actions are, making sure to minimize damage as much as possible.
+
+### The Principle of Military Necessity
+* Prohibits permanently harming/torturing someone during peacetimes
+* Cannot justify actions not necessary to achieve the mission goal.
+* Generally(??wtf) prohibits targeting of protected persons, such as civilians, persons of high power/authority, etc.
+* __Principle of Proportionality:__ Creates obligations to refrain from attacks that aren't equivalent in action/response.
+* __Principle of Unnecessary Suffering:__ Also referred to as the __principle of Humanity__, it forbids the employements of methods meant to cause unnecessary suffering.
+* __Principle of Distinction:__ Tells parties to distinguish between active combatants of the fight and non-combatants.
+### Rules of Engagement
+ROEs set the limits of what certain people are/aren't allowed to do.
+   * __Standing ROEs:__ Rules that are always followed no matter what.
+   * __Specific ROEs:__ Rules that are followed given specific circumstances.
