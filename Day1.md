@@ -20,7 +20,7 @@ The priorities of the GCCs are to ensure an effective posture, strengthen allies
 11. CYBERCOM - Deals with Cyberspace.
 ## Unified Commands
 Join forces can be combined between Geographic Commands, and work closely to whichever command(s) they work within.
-> Functional Combatant Commands (FCCs) operate across all geographical regions and typically provide support to other Combatant Commanders (CCDRs).
+* __Functional Combatant Commands (FCCs)__ operate across all geographical regions and typically provide support to other Combatant Commanders (CCDRs).
 
 ## Power of the IA
 Title 10 - Gives responsibilities of the Armed Forces to the Secretary of Defense
