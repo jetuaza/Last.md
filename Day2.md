@@ -54,3 +54,10 @@ The dimensions can be split up 3 different ways: __Physical__, __Network__, and 
 CCDRs use CO to create effects in support of military objectives.
 
 COs use links and nodes located in the physical domain and perform logical functions to create effects first in cyberspace, then in the physical domain as needed.
+
+The goal of __Defensive Cyberspace Operations__ is to defeat the threat of a specific adversary, and return friendly systems back to a non-exploitated state.
+
+### Cyberspace Attack Effects
+__Deny:__ To degrade, disrupt, or destroy access to information/space.
+
+__Cyberspace Exploitation:__ Activities to gain intel and support operational prep of the environment for current and future operations via actions like gaining/maintaining access to networks, systems, etc., of the adversary.
