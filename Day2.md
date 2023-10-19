@@ -15,3 +15,6 @@ EW includes 3 major subdivisions: Electromagnetic Attack (EA), Electromagnetic P
 
    * __Threat Warning:__ EW personnel employ sensors to detect, intercept, ID, and locate adversary electromagnetic signatures and provide an early warning of an imminent/potential threat.
    * __Direction Finding:__ Leveraging various organic and supporting ES platforms
+
+# Space Operations
+__Space Operations__ are operations directly utilizing or impacting space and ground-based capabilities to enhance the potential of the US and its partners.
