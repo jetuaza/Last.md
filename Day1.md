@@ -24,9 +24,9 @@ Joint forces can be combined between Geographic Commands, and work closely to wh
 * __Functional Combatant Commands (FCCs)__ operate across all geographical regions and typically provide support to other Combatant Commanders (CCDRs).
 
 ## Power of the IA
-* Title 10 - Gives responsibilities of the Armed Forces to the Secretary of Defense
+* Title 10 - Has the key focus of National Defense.
 * Title 22 - 
-* Title 50
+* Title 50 - Key focus is on foreign intelligence and counter-intelligence activities.
 ### Joint Operations
 #### Principles of Joint Operations
 * Objective
