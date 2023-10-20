@@ -31,3 +31,5 @@ Physical Access is the hardest/weakest part of Cyber operations.
 ---
 # Cyberspace Attack Actions
 * D4M: Deny, Degrade, Disrupt, Destroy, Manipulate
+
+# YOU WILL SUFFER, AS I, RAMATTRA!, HAVE SUFFERED. YOUR TORMENT WILL OUTLAST. THE. STARS. WHEN THE UNIVERSE DWINDLES INTO DUST, THERE. YOU. WILL. BE., STILL SUFFERING! AS I HAVE. S U F F E R.
