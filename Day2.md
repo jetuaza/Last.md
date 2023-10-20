@@ -63,6 +63,8 @@ __Deny:__ To degrade, disrupt, or destroy access to information/space.
 __Cyberspace Exploitation:__ Activities to gain intel and support operational prep of the environment for current and future operations via actions like gaining/maintaining access to networks, systems, etc., of the adversary.
 
 # Laws of Armed Conflict (LOAC)
+The Laws of Armed Conflict are made up of both __International Laws__ and __Treaty Laws__.
+
 The DoD Law of War Program, in conjuction with the Law of War Manual, essentially states how people must respond to accusations of violations of war crimes.
 
 Legally defined, LOACs must have justifications in their actions, and control over how severe the actions are, making sure to minimize damage as much as possible.
