@@ -30,7 +30,7 @@ __Space Operations (SO)__ are operations directly utilizing or impacting space a
 1. __Ground Segment:__ Consists of ground-based facilities and equipment. Vulnerable to conventional warfighting techniques, since it is a physical thing that can be attacked.
 2. __Link Segment:__ Consists of signal coverage. Vulnerable to things such as jamming, spoofing, replay, command intrusion, etc.
 3. __Space Segment:__ Involves the operational spacecraft within the space domain. Vulnerable to things such as anti-satellite devices, payload control, command intrusion, and (D)DOS.
-4. __User Segment:__ The user/personal aspect. Vulnerable to things such as spoofing, (D)DOS, malaware, etc.
+> There is also the __User Segment__, which comprises of the user/personal aspect. Vulnerable to things such as spoofing, (D)DOS, malaware, etc.
 
 #### Dimensions of the Space Domain
 The dimensions can be split up 3 different ways: __Physical__, __Network__, and __Cognitive__.
