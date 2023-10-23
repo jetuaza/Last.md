@@ -1,6 +1,6 @@
 # Defensive Cyberspace Methodologies
 The purpose of __Defensive Cyberspace Operations (DCO)__ is to halt adversary offensive initiative, sustain/regain friendly initiative, and if required, create conditions for a counteroffensive. __DCO is threat specific and network-agnostic__, while general __DODIN operations are network focused and threat-agnostic.__ Objectives include:
-* Deter, Deny and/or defeat adversary OCO
+* Deter, Deny, and/or defeat adversary OCO
 * Gain time
 * Defend critical assets
 * Control key terrain in Cyberspace (KT-C)
