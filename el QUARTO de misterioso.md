@@ -26,3 +26,5 @@ __Capabilities__
 __Deployable Mission Support System (DMSS):__ Mobile cyber offense/defense support system.
 
 3 types of CPT missions are solo formation combined 
+
+multi-domain effect battalion provides sigint, geoint, osint.
