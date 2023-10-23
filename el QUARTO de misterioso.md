@@ -24,3 +24,5 @@ __Capabilities__
 3. __Threat Mitigation:__ Taking/Making mitigation recommendations to reduce the consequences of attacks on specified key terrain.
 
 __Deployable Mission Support System (DMSS):__ Mobile cyber offense/defense support system.
+
+3 types of CPT missions are solo formation combined 
